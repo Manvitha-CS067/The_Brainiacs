@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Alumni Event Prediction</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <div class="max-w-xl mx-auto p-6 mt-10 bg-white shadow-lg rounded-lg">
+    <h1 class="text-2xl font-bold mb-4 text-center">Predict Alumni Attendance</h1>
+
+    <form id="predictForm" class="space-y-4">
+      <div>
+        <label for="eventType" class="block mb-1 font-medium">Event Type</label>
+        <select id="eventType" required class="w-full border p-2 rounded">
+          <option value="">Select</option>
+          <option value="Tech Talk">Tech Talk</option>
+          <option value="Cultural Fest">Cultural Fest</option>
+          <option value="Workshop">Workshop</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="eventDate" class="block mb-1 font-medium">Event Date</label>
+        <input type="date" id="eventDate" required class="w-full border p-2 rounded" />
+      </div>
+
+      <div>
+        <label for="eventTime" class="block mb-1 font-medium">Event Time</label>
+        <input type="time" id="eventTime" required class="w-full border p-2 rounded" />
+      </div>
+
+      <div>
+        <label for="weather" class="block mb-1 font-medium">Expected Weather</label>
+        <select id="weather" required class="w-full border p-2 rounded">
+          <option value="">Select</option>
+          <option value="Sunny">Sunny</option>
+          <option value="Cloudy">Cloudy</option>
+          <option value="Rainy">Rainy</option>
+          <option value="Snowy">Snowy</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="alumniCount" class="block mb-1 font-medium">Number of Alumni to Consider</label>
+        <input type="number" id="alumniCount" min="1" required class="w-full border p-2 rounded" />
+      </div>
+
+      <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white p-2 rounded">
+        Predict Attendance
+      </button>
+    </form>
+
+    <div id="result" class="mt-6 hidden p-4 border rounded bg-green-50 text-green-800"></div>
+    <div id="error" class="mt-6 hidden p-4 border rounded bg-red-50 text-red-800"></div>
+  </div>
+
+  <script>
+    document.getElementById('predictForm').addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const eventType = document.getElementById('eventType').value;
+      const eventDate = document.getElementById('eventDate').value;
+      const eventTime = document.getElementById('eventTime').value;
+      const weather = document.getElementById('weather').value;
+      const alumniCount = parseInt(document.getElementById('alumniCount').value);
+
+      const response = await fetch('http://localhost:8000/api/predict', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ eventType, eventDate, eventTime, weather, alumniCount })
+      });
+
+      const resultBox = document.getElementById('result');
+      const errorBox = document.getElementById('error');
+
+      resultBox.classList.add('hidden');
+      errorBox.classList.add('hidden');
+
+      if (response.ok) {
+        const data = await response.json();
+        const prediction = data.prediction;
+
+        // Store expected attendees in localStorage
+        localStorage.setItem('expectedAttendees', prediction.expectedAttendees);
+
+        const chairs = prediction.recommendedResources.chairs;
+        const meals = prediction.recommendedResources.meals;
+        const cateringCoordinators = Math.ceil(meals / 10);
+        const seatingCoordinators = Math.ceil(chairs / 20);
+
+        resultBox.innerHTML = `
+          <h2 class="font-semibold text-lg mb-2">Prediction Results:</h2>
+          <p><strong>Expected Attendance:</strong> ${prediction.expectedAttendees} alumni</p>
+          <p><strong>Attendance Percent:</strong> ${prediction.attendancePercent}%</p>
+          <p><strong>Recommended Resources:</strong></p>
+          <ul class="list-disc ml-6">
+            <li>Chairs: ${chairs}</li>
+            <li>Meals: ${meals}</li>
+            <li>Parking Spaces: ${prediction.recommendedResources.parkingSpaces}</li>
+            <li><strong>Catering Coordinators:</strong> ${cateringCoordinators}</li>
+            <li><strong>Seating Coordinators:</strong> ${seatingCoordinators}</li>
+          </ul>
+          <p><strong>Suggestions:</strong></p>
+          <ul class="list-disc ml-6">
+            ${prediction.recommendations.map(r => `<li>${r}</li>`).join('')}
+          </ul>
+        `;
+        resultBox.classList.remove('hidden');
+      } else {
+        const errorData = await response.json();
+        errorBox.textContent = errorData.error || 'Failed to make prediction.';
+        errorBox.classList.remove('hidden');
+      }
+    });
+  </script>
+</body>
+</html>
