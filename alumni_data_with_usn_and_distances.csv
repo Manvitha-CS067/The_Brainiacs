@@ -1,0 +1,1001 @@
+USN,Name,Location,RSVP,Past_Attendance,Current_Distance
+4MW15ME294,Raghav Rao,Aligarh,No,Yes,1691.23
+4MW14CV366,Arjun Prasad,Guntur,No,No,709.46
+4MW20CV605,Kavita Sharma,Ahmedabad,No,No,1144.31
+4MW13EC843,Meera Khan,Sivasagar,Yes,No,2584.53
+4MW24ME443,Sneha Yadav,Ghazipur,No,No,1672.01
+4MW13CV427,Zayan Aggarwal,Asansol,Yes,No,1748.26
+4MW20EC349,Saurabh Naidu,Dehradun,No,Yes,1955.72
+4MW22EC164,Laxman Bhatt,"Chengdu, China",No,No,3584.46
+4MW14CS475,Sneha Yadav,"Rotterdam, Netherlands",No,No,7543.35
+4MW13CV020,Devendra Thakur,Ranchi,Yes,No,1600.57
+4MW21ME982,Dilip Prasad,"Marseille, France",Yes,Yes,7378.63
+4MW16CV034,Charulata Menon,"Melbourne, Australia",Yes,Yes,9201.73
+4MW20EC303,Jeevan Reddy,"Hanoi, Vietnam",No,Yes,3414.49
+4MW24EC057,Samar Nair,"Calgary, Canada",No,Yes,12866.2
+4MW22CV732,Barkha Shetty,Belgaum,No,Yes,327.81
+4MW16EC935,Aniket Sinha,Dantewada,Yes,No,959.99
+4MW24CS029,Tanvi Mishra,Guwahati,No,No,2297.74
+4MW18EC751,Sneha Yadav,Bilaspur,Yes,Yes,1282.13
+4MW20EC664,Vandana Rao,Pithoragarh,No,No,1992.11
+4MW19EC449,Chirag Sinha,"Helsinki, Finland",Yes,No,6624.31
+4MW23CV774,Urvashi Naidu,"Busan, South Korea",Yes,No,5955.32
+4MW14EC129,Kiran Reddy,Rishikesh,No,Yes,1936.58
+4MW16CV157,Bina Chauhan,Kurukshetra,No,No,1899.65
+4MW16EC357,Lokesh Aggarwal,"Busan, South Korea",Yes,No,5955.32
+4MW10EC554,Yamini Shetty,Ludhiana,Yes,No,1995.3
+4MW19CS446,Omkar Khan,Durgapur,Yes,No,1765.71
+4MW22ME918,Charulata Menon,Basti,No,Yes,1737.41
+4MW15CS180,Ishita Nair,Raebareli,Yes,Yes,1615.24
+4MW21EC851,Om Gupta,Bareilly,Yes,No,1784.52
+4MW24EC473,Farida Aggarwal,"Victoria, Canada",No,Yes,12976.59
+4MW22EC612,Aarohi Sinha,"Austin, USA",No,No,15160.97
+4MW11CV221,Aarohi Sinha,"Porto Alegre, Brazil",No,Yes,14186.38
+4MW22CS744,Jaya Mehta,Almora,No,No,1918.02
+4MW10EC218,Farah Kapoor,Lucknow,Yes,No,1666.92
+4MW16CV764,Vaishali Yadav,Varanasi,Yes,No,1619.33
+4MW16CS085,Mona Deshmukh,Surat,Yes,No,942.96
+4MW11ME551,Lata Gupta,Dharwad,Yes,Yes,273.45
+4MW15EC396,Nisha Verma,Aligarh,Yes,No,1691.23
+4MW21CV735,Divya Menon,"New York City, USA",No,No,13261.27
+4MW13ME646,Jatin Iyer,"Chicago, USA",No,No,13679.48
+4MW17ME849,Farzana Sinha,"Luxembourg City, Luxembourg",Yes,No,7394.2
+4MW22ME774,Yashwant Iyer,"Tashkent, Uzbekistan",No,Yes,3193.49
+4MW22ME487,Raghav Reddy,Kharagpur,No,Yes,1681.57
+4MW12ME856,Jaya Jha,Bhubaneswar,No,Yes,1425.5
+4MW13CS263,Nikhil Verma,Junagadh,Yes,No,1061.05
+4MW21CS639,Ramesh Iyer,"Seattle, USA",No,Yes,13088.68
+4MW18ME584,Mona Deshmukh,"Dubai, UAE",Yes,Yes,2464.59
+4MW16CV120,Harini Thakur,Mehsana,No,No,1211.58
+4MW15EC737,Hardik Reddy,"Calgary, Canada",No,No,12866.2
+4MW21ME537,Bhuvan Thakur,"Brussels, Belgium",No,No,7537.36
+4MW10ME262,Yamini Shetty,New Delhi,Yes,Yes,1758.65
+4MW19EC522,Yasmin Mishra,"Shenzhen, China",No,No,4278.2
+4MW16CV261,Farida Aggarwal,Hamirpur,Yes,Yes,1519.71
+4MW13EC446,Nitin Reddy,"Marseille, France",No,Yes,7378.63
+4MW13EC353,Aarohi Sinha,Etah,Yes,No,1667.09
+4MW15CV140,Harini Thakur,"Zurich, Switzerland",Yes,Yes,7182.56
+4MW20ME832,Charulata Menon,Rishikesh,No,No,1936.58
+4MW19EC246,Pranav Deshmukh,Midnapore,No,No,1688.8
+4MW13CS191,Inderjit Kapoor,"Milan, Italy",No,Yes,7102.28
+4MW11EC131,Farah Kapoor,"Zurich, Switzerland",No,Yes,7182.56
+4MW11CS516,Anirudh Chauhan,Hazaribagh,No,Yes,1668.85
+4MW12EC151,Vidya Iyer,Sitapur,No,Yes,1730.86
+4MW12CV291,Gopal Deshmukh,"Medellín, Colombia",No,No,16131.4
+4MW23CS325,Jeevan Reddy,"Toronto, Canada",Yes,Yes,13219.41
+4MW11EC132,Jeevan Goswami,Mandsaur,No,No,1257.43
+4MW22CV985,Farzana Sinha,"San Francisco, USA",Yes,Yes,14112.29
+4MW11EC165,Nisha Verma,"San Francisco, USA",Yes,Yes,14112.29
+4MW15EC580,Nirav Das,"Almaty, Kazakhstan",No,Yes,3366.77
+4MW12ME123,Chitra Kapoor,"Christchurch, New Zealand",Yes,Yes,11612.59
+4MW22CS132,Dilip Prasad,Rewari,Yes,Yes,1701.76
+4MW24EC873,Farah Kapoor,Asansol,No,Yes,1748.26
+4MW24CV795,Aaditya Sharma,"Muscat, Oman",Yes,No,2101.68
+4MW24EC066,Harsh Bhatt,"Bali, Indonesia",Yes,Yes,5036.11
+4MW13EC633,Pankaj Mishra,"Eindhoven, Netherlands",No,No,7467.58
+4MW24EC447,Bhavna Thakur,Seoni,Yes,No,1157.21
+4MW14CS794,Chandan Aggarwal,"Cebu, Philippines",No,Yes,5338.59
+4MW17ME426,Deepak Deshmukh,Karimnagar,No,Yes,763.68
+4MW15CS701,Omkar Prasad,Gandhinagar,Yes,No,1164.64
+4MW13CV924,Pranav Shetty,"Porto, Portugal",No,Yes,8534.56
+4MW14CV874,Vihan Sinha,"Budapest, Hungary",No,Yes,6414.19
+4MW16CS523,Zohra Das,"Tunis, Tunisia",No,Yes,6912.56
+4MW20CS168,Ramesh Iyer,Deoria,No,Yes,1761.7
+4MW24ME286,Faisal Goswami,"Waterloo, Canada",Yes,Yes,13281.33
+4MW10ME798,Dipti Chauhan,"Minneapolis, USA",Yes,No,13482.98
+4MW10CS887,Dipti Chauhan,Bhubaneswar,Yes,Yes,1425.5
+4MW19ME604,Omkar Prasad,Korba,No,No,1344.98
+4MW15CV311,Parul Khan,Bhubaneswar,Yes,No,1425.5
+4MW18ME001,Meera Reddy,Barmer,Yes,Yes,1453.91
+4MW15CS148,Bhavya Nair,"Denver, USA",Yes,No,14175.12
+4MW13CS196,Isha Goswami,"Rome, Italy",Yes,No,6781
+4MW16ME007,Eklavya Aggarwal,Navsari,Yes,No,912.85
+4MW11CV178,Ramesh Iyer,Vadodara,No,Yes,1053.34
+4MW22CS323,Hina Reddy,Hardoi,No,No,1687.62
+4MW23CV284,Zara Nair,"Bucharest, Romania",Yes,No,5785.14
+4MW16ME744,Chirag Mehta,Jaipur,Yes,Yes,1553.31
+4MW22EC228,Ishita Nair,Kullu,No,No,2121.51
+4MW20CS417,Tarun Shetty,Bhavnagar,No,Yes,1021.8
+4MW18CS478,Ekta Thakur,Mandsaur,No,Yes,1257.43
+4MW20CV948,Imran Aggarwal,Jamshedpur,Yes,No,1624.45
+4MW16CS232,Bhaskar Kapoor,"Madrid, Spain",No,Yes,8127.57
+4MW14EC342,Oma Nair,Basti,No,No,1737.41
+4MW19CV824,Faisal Goswami,"Seoul, South Korea",No,No,5826
+4MW12ME386,Juhi Deshmukh,Solan,No,Yes,7675.21
+4MW22ME003,Utkarsh Mishra,Mussoorie,Yes,Yes,1970.64
+4MW11ME083,Yasmin Iyer,Ujjain,Yes,Yes,1141.32
+4MW14ME825,Raghav Rao,Varanasi,No,Yes,1619.33
+4MW22CS363,Omkar Bhatt,"Alexandria, Egypt",No,Yes,5019.65
+4MW12EC333,Tarun Shetty,Baramulla,No,Yes,2359.17
+4MW15CS373,Govind Sinha,"Lima, Peru",No,Yes,16980.51
+4MW10ME212,Brijesh Mishra,"Prague, Czech Republic",Yes,Yes,6817.29
+4MW12ME217,Uma Das,"Dublin, Ireland",No,No,8277.42
+4MW17EC586,Pranav Shetty,"Krakow, Poland",No,No,6441.84
+4MW21ME400,Saurabh Naidu,"Copenhagen, Denmark",No,No,7105.24
+4MW11CV479,Eklavya Chauhan,"Kampala, Uganda",No,No,4867.14
+4MW19EC824,Darshan Desai,Hyderabad,Yes,Yes,627.06
+4MW11EC189,Gaurav Verma,Bhiwadi,Yes,Yes,1705.29
+4MW16EC912,Girish Menon,"Vilnius, Lithuania",Yes,No,6312.78
+4MW13EC429,Onkar Nair,"Canberra, Australia",Yes,No,9448.21
+4MW11ME945,Devansh Goswami,"Copenhagen, Denmark",Yes,Yes,7105.24
+4MW12EC642,Yash Das,Nashik,Yes,Yes,793.59
+4MW14CV889,Tanmay Chauhan,Hisar,Yes,Yes,1810.36
+4MW23ME010,Kavita Bhatt,Anantapur,No,No,342.91
+4MW20ME901,Lavanya Bhatt,"Geneva, Switzerland",Yes,Yes,7347.1
+4MW17CV211,Kamal Jha,"Perth, Australia",Yes,No,6614.61
+4MW20EC459,Jaidev Khan,"Manchester, UK",No,Yes,8010.68
+4MW11CV871,Sandeep Prasad,Jammu,Yes,No,2193.33
+4MW22EC336,Uday Sharma,"Guangzhou, China",No,No,4206.65
+4MW12CS551,Leela Deshmukh,Amritsar,No,Yes,2073.25
+4MW12CS479,Tanmay Mehta,"San Francisco, USA",Yes,Yes,14112.29
+4MW13EC007,Uday Kapoor,Dehradun,No,No,1955.72
+4MW18CV629,Samar Iyer,"Paris, France",No,Yes,7661.31
+4MW22ME133,Urvashi Naidu,"Quebec City, Canada",Yes,No,12579.03
+4MW20ME268,Farida Aggarwal,"Adelaide, Australia",No,Yes,8549.82
+4MW21ME309,Lalit Rao,Navsari,Yes,No,912.85
+4MW22EC517,Yuvraj Chauhan,"Munich, Germany",Yes,Yes,6973.19
+4MW13CS273,Zeeshan Shetty,"Medellín, Colombia",No,Yes,16131.4
+4MW21ME044,Anirudh Chauhan,Vijayawada,Yes,Yes,736.92
+4MW19CV861,Saurabh Naidu,"Calgary, Canada",No,No,12866.2
+4MW17ME579,Prerna Mehta,Goa (general),No,Yes,303.36
+4MW19CS462,Charu Aggarwal,Rewa,Yes,Yes,1479.49
+4MW21EC368,Nikhil Verma,Moradabad,Yes,Yes,1814.51
+4MW17EC827,Jaya Jha,Bilaspur,No,Yes,1282.13
+4MW12CS885,Bhavna Thakur,Katni,No,Yes,1324.82
+4MW21EC113,Deepika Goswami,"Lima, Peru",No,No,16980.51
+4MW16CV629,Kiran Reddy,Agartala,Yes,Yes,2111.76
+4MW14CS769,Eklavya Chauhan,"Edinburgh, UK",No,No,8083
+4MW20EC181,Chandan Aggarwal,"Cambridge, UK",Yes,No,7843.87
+4MW18CV200,Oorja Rao,"Johannesburg, South Africa",No,Yes,6663.02
+4MW10EC363,Rashmi Verma,"Christchurch, New Zealand",Yes,Yes,11612.59
+4MW13EC079,Farzana Sinha,"Melbourne, Australia",Yes,Yes,9201.73
+4MW23EC001,Bhavna Thakur,"Chiang Mai, Thailand",Yes,Yes,2662.35
+4MW13ME750,Harish Chauhan,Gangtok,No,No,2144.63
+4MW13CV396,Ekta Chauhan,"Jeddah, Saudi Arabia",No,No,3903.48
+4MW17EC052,Harish Sharma,Singapore,No,No,3439.48
+4MW12CV792,Vivek Rao,"Rosario, Argentina",No,Yes,15001.25
+4MW24EC583,Tanmay Mehta,Hamirpur,No,Yes,1519.71
+4MW14CS472,Meera Khan,"Zurich, Switzerland",Yes,Yes,7182.56
+4MW14EC876,Aarav Patel,Warangal,No,Yes,757.08
+4MW19EC298,Bhavya Nair,"Auckland, New Zealand",Yes,No,11738.38
+4MW19ME112,Yash Thakur,Srinagar,Yes,No,2343.75
+4MW24CV514,Vidya Iyer,Beawar,No,No,1460.73
+4MW18CS911,Rohan Sharma,Deoria,No,No,1761.7
+4MW17CV340,Lokesh Gupta,Nainital,Yes,No,1885.39
+4MW16EC701,Vivek Rao,Bharatpur,No,No,1582.68
+4MW13CV011,Isha Goswami,Allahabad (Prayagraj),No,No,1567.71
+4MW15ME546,Kamal Jha,Bhilwara,Yes,Yes,1393.12
+4MW21EC169,Nitin Reddy,Jorhat,Yes,Yes,2534.96
+4MW14EC749,Fardeen Kapoor,"Nagoya, Japan",Yes,No,6661.39
+4MW13EC839,Bhavna Thakur,"Portland, USA",Yes,No,13298.63
+4MW24CV150,Rashmi Verma,Kharagpur,No,Yes,1681.57
+4MW20EC886,Ramesh Iyer,Vapi,No,No,851.21
+4MW23EC902,Sonia Rao,Ajmer,No,Yes,1500.77
+4MW14EC333,Raghav Nair,"Cork, Ireland",No,No,8432.6
+4MW18ME186,Jatin Iyer,"Dubai, UAE",No,Yes,2464.59
+4MW23ME674,Hina Aggarwal,Hamirpur,No,Yes,1519.71
+4MW22CS297,Yamini Shetty,Jhansi,No,No,1452.18
+4MW13CV572,Vihan Gupta,Hardoi,No,Yes,1687.62
+4MW15ME584,Uttam Verma,"Cork, Ireland",No,Yes,8432.6
+4MW10EC108,Lavanya Bhatt,Panaji,No,No,306.75
+4MW22CV777,Chandan Aggarwal,"Guangzhou, China",No,Yes,4206.65
+4MW21CS402,Indu Bhatt,"Abuja, Nigeria",Yes,No,7355.58
+4MW19CS318,Vidya Iyer,Hubli,Yes,No,271.43
+4MW13ME217,Advik Gupta,Aurangabad,Yes,No,1655.52
+4MW18CS822,Tanvi Verma,Nagpur,Yes,No,1016.24
+4MW13CV785,Jaya Mehta,Kharagpur,Yes,Yes,1681.57
+4MW13CV880,Chitra Kapoor,Rajkot,No,Yes,1124.66
+4MW13CS970,Tanvi Mishra,"Penang, Malaysia",Yes,Yes,2909.93
+4MW10EC233,Nisha Verma,"Cebu, Philippines",No,Yes,5338.59
+4MW16EC050,Sonia Rao,"Córdoba, Argentina",No,No,15368.2
+4MW21CV197,Eshwar Shetty,"Toronto, Canada",Yes,No,13219.41
+4MW19CV826,Girish Mehta,Hoshangabad,No,Yes,1129.28
+4MW13ME168,Jaya Mehta,Ajmer,Yes,No,1500.77
+4MW22CV504,Rohan Sharma,Dharwad,No,Yes,273.45
+4MW20EC763,Trisha Iyer,Patna,Yes,No,1770.09
+4MW18CS932,Damini Sinha,Moradabad,Yes,No,1814.51
+4MW24EC635,Rashmi Gupta,Unnao,No,No,1627.01
+4MW15CS945,Pooja Sharma,Bahraich,Yes,No,1779.44
+4MW20EC571,Farhan Khan,"Toronto, Canada",Yes,Yes,13219.41
+4MW18CS357,Chandan Aggarwal,Ratlam,Yes,Yes,1172
+4MW16CS529,Farah Kapoor,Hisar,Yes,Yes,1810.36
+4MW20CS303,Kartik Verma,"Phoenix, USA",No,Yes,14821.35
+4MW24ME180,Harish Chauhan,Chhindwara,Yes,No,1110.22
+4MW10ME047,Uday Kapoor,"Marseille, France",Yes,Yes,7378.63
+4MW20CS089,Chhavi Nair,Allahabad (Prayagraj),No,No,1567.71
+4MW24ME191,Govind Sinha,"Bogotá, Colombia",Yes,No,16082.83
+4MW11ME556,Tejas Yadav,"Kaohsiung, Taiwan",Yes,No,4918.91
+4MW23ME761,Yashwant Iyer,Katni,Yes,No,1324.82
+4MW17EC895,Farhan Khan,"Chiang Mai, Thailand",Yes,No,2662.35
+4MW24CS475,Nisha Verma,"Sydney, Australia",No,Yes,9580.09
+4MW12CV254,Mitali Mehta,Hong Kong,Yes,Yes,4288.73
+4MW23CS572,Rashmi Gupta,"Sofia, Bulgaria",No,Yes,5931.9
+4MW18EC304,Oindrila Gupta,"Miami, USA",Yes,No,14950.04
+4MW15CS818,Ishaan Rao,Chaibasa,Yes,Yes,1576.24
+4MW18CV775,Barkha Shetty,"Taipei, Taiwan",Yes,Yes,5071.48
+4MW13EC525,Aarushi Shetty,"Lisbon, Portugal",No,Yes,8608.42
+4MW17CS346,Tanmay Chauhan,"Denver, USA",Yes,No,14175.12
+4MW19CV449,Chandan Aggarwal,Chandigarh,No,Yes,1983.09
+4MW16CV639,Tarun Shetty,"Belo Horizonte, Brazil",No,Yes,13483.85
+4MW13CS188,Simran Gupta,"Cape Town, South Africa",Yes,Yes,7906.46
+4MW15CS106,Eklavya Chauhan,"Lima, Peru",Yes,No,16980.51
+4MW24ME845,Faisal Goswami,Hamirpur,No,Yes,1519.71
+4MW11CS924,Farida Aggarwal,"Barcelona, Spain",Yes,No,7630.8
+4MW23CV679,Uday Kapoor,"Nairobi, Kenya",No,Yes,4484.65
+4MW17CV963,Prerna Mehta,Tezpur,No,Yes,2407.76
+4MW22CS520,Urvashi Naidu,Siliguri,No,No,2083.95
+4MW17CS255,Raghav Reddy,Unnao,No,No,1627.01
+4MW10EC860,Omkar Bhatt,"Seoul, South Korea",No,No,5826
+4MW24CV891,Zayan Prasad,"Tel Aviv, Israel",Yes,No,4600.18
+4MW16EC472,Feroz Nair,"Edinburgh, UK",Yes,No,8083
+4MW24CV117,Tanmay Mehta,Udaipur,Yes,Yes,1297.03
+4MW24CV429,Bhavesh Shetty,"Córdoba, Argentina",Yes,Yes,15368.2
+4MW10CS487,Devansh Goswami,"Melbourne, Australia",Yes,Yes,9201.73
+4MW24CV256,Lalit Mehta,Dhamtari,Yes,Yes,1115.76
+4MW18EC724,Fardeen Kapoor,Vijayawada,Yes,No,736.92
+4MW20EC973,Faizan Nair,"Victoria, Canada",No,Yes,12976.59
+4MW18ME311,Bhavna Thakur,Mussoorie,No,Yes,1970.64
+4MW11EC646,Naveen Gupta,"Cebu, Philippines",No,No,5338.59
+4MW22EC738,Madhav Mishra,"Jakarta, Indonesia",No,Yes,4118.31
+4MW18CV349,Yamini Shetty,"Medellín, Colombia",Yes,Yes,16131.4
+4MW22ME923,Yamini Shetty,"Rotterdam, Netherlands",No,No,7543.35
+4MW24CV614,Brijesh Mishra,"Hangzhou, China",Yes,Yes,5032.51
+4MW20CV302,Yuvraj Chauhan,Ambala,No,Yes,1944.52
+4MW23ME722,Madhur Deshmukh,"Lisbon, Portugal",Yes,No,8608.42
+4MW23EC463,Harish Chauhan,Madurai,No,No,485.42
+4MW13EC817,Pankaj Mishra,Haldia,No,No,1726.05
+4MW21CS139,Aarushi Shetty,"Milan, Italy",No,Yes,7102.28
+4MW15EC420,Prerna Mehta,"Quebec City, Canada",No,No,12579.03
+4MW24ME488,Madhav Mishra,Jorhat,Yes,No,2534.96
+4MW20EC719,Yasmin Iyer,"Lima, Peru",No,No,16980.51
+4MW15EC744,Kavita Sharma,Hubli,Yes,No,271.43
+4MW21EC665,Farah Kapoor,Tehri,Yes,No,1970.36
+4MW13ME898,Kavita Sharma,"Sydney, Australia",No,Yes,9580.09
+4MW14ME967,Darshan Desai,Nahan,No,No,1970.01
+4MW11CV608,Arjun Prasad,Aizawl,Yes,Yes,2234.48
+4MW22EC015,Manish Iyer,"Canberra, Australia",No,Yes,9448.21
+4MW14CV257,Zeeshan Shetty,Goa (general),Yes,Yes,303.36
+4MW15ME101,Yasmin Mishra,"New York City, USA",No,No,13261.27
+4MW22EC039,Hina Aggarwal,Pulwama,No,No,2329.88
+4MW22CS920,Damini Sinha,Solan,Yes,Yes,7675.21
+4MW12CS467,Kamal Jha,Imphal,Yes,No,2397.98
+4MW12EC786,Jeevan Goswami,Nashik,Yes,Yes,793.59
+4MW10EC123,Hardik Reddy,"Addis Ababa, Ethiopia",No,No,3965.97
+4MW22CS863,Kamal Jha,New Delhi,Yes,No,1758.65
+4MW15CV580,Uttam Verma,Kolhapur,No,Yes,424.41
+4MW13CS543,Chetanya Nair,Navsari,Yes,Yes,912.85
+4MW22CS001,Parul Khan,"Bali, Indonesia",No,Yes,5036.11
+4MW19CS594,Nandini Reddy,"Buenos Aires, Argentina",No,Yes,14753.89
+4MW22CS738,Eklavya Chauhan,"Incheon, South Korea",No,Yes,5799.64
+4MW21CV078,Chandan Das,Mandi,No,Yes,2086.69
+4MW21CS857,Damini Sinha,Tinsukia,No,No,2674.85
+4MW17CS527,Uma Das,"Christchurch, New Zealand",No,Yes,11612.59
+4MW22CS812,Oma Nair,"Victoria, Canada",No,Yes,12976.59
+4MW13EC821,Omkar Prasad,Coimbatore,No,Yes,312.09
+4MW16ME924,Samar Menon,"Gothenburg, Sweden",No,No,7203.27
+4MW12EC777,Vidya Iyer,Bhilwara,Yes,No,1393.12
+4MW23EC274,Oindrila Gupta,"Jeddah, Saudi Arabia",Yes,Yes,3903.48
+4MW23EC915,Ishan Nair,Dhamtari,No,No,1115.76
+4MW19EC385,Nirav Das,Haldia,No,No,1726.05
+4MW13CV659,Prerna Mehta,Indore,Yes,No,1090.64
+4MW11EC925,Tanvi Mishra,"Montreal, Canada",Yes,Yes,12803.12
+4MW21ME165,Chandan Aggarwal,"Wellington, New Zealand",Yes,No,11772.73
+4MW11EC093,Vaishali Yadav,"Denver, USA",No,No,14175.12
+4MW16EC598,Vandana Rao,Nashik,No,No,793.59
+4MW15CV275,Ishaan Rao,"Cebu, Philippines",No,Yes,5338.59
+4MW14CV263,Meera Reddy,"Budapest, Hungary",No,Yes,6406.03
+4MW13CS983,Meera Reddy,Nizamabad,No,Yes,725.72
+4MW15ME016,Mona Deshmukh,Eluru,No,No,793.85
+4MW22EC712,Samar Nair,Dibrugarh,Yes,No,2636.82
+4MW16EC480,Tara Khan,"Stuttgart, Germany",Yes,Yes,7160.43
+4MW17EC622,Jaidev Khan,"Dublin, Ireland",Yes,Yes,8277.42
+4MW18EC012,Kunal Naidu,Banda,Yes,Yes,1510.53
+4MW10CV890,Nisha Verma,"Hanoi, Vietnam",Yes,No,3414.49
+4MW19EC111,Esha Jha,Jodhpur,Yes,Yes,1493.69
+4MW20CV691,Saurabh Naidu,"Brno, Czech Republic",Yes,No,6640.82
+4MW12EC021,Hardik Reddy,"Johannesburg, South Africa",Yes,Yes,6663.02
+4MW15ME635,Imran Deshmukh,Meerut,Yes,No,1806.59
+4MW12EC830,Saurabh Naidu,Raebareli,No,Yes,1615.24
+4MW19ME135,Vidya Iyer,Haridwar,Yes,Yes,1915.35
+4MW17ME173,Zohra Das,Kanpur,Yes,Yes,1604.8
+4MW24EC279,Oma Nair,"Incheon, South Korea",Yes,Yes,5799.64
+4MW16CV151,Chirag Sinha,"Vienna, Austria",No,No,6627.98
+4MW19EC292,Girish Menon,Ambala,No,Yes,1944.52
+4MW15ME644,Geeta Sinha,"Kuala Lumpur, Malaysia",Yes,No,3146.08
+4MW21CS731,Aditi Prasad,Kakinada,No,Yes,910.32
+4MW20ME247,Garima Deshmukh,"Rabat, Morocco",Yes,Yes,8463.44
+4MW11EC682,Farah Kapoor,"Manila, Philippines",No,No,4983.42
+4MW13EC449,Manish Sharma,Moradabad,Yes,Yes,1814.51
+4MW20CS141,Vivek Rao,Jaipur,Yes,No,1553.31
+4MW16ME596,Jeevan Reddy,"Zurich, Switzerland",Yes,Yes,7182.56
+4MW22EC747,Damini Sinha,"Frankfurt, Germany",Yes,No,7221.38
+4MW21CV965,Zayan Aggarwal,"Dublin, Ireland",Yes,Yes,8277.42
+4MW19EC340,Sandeep Prasad,"Osaka, Japan",Yes,Yes,6528.98
+4MW23EC980,Zeeshan Shetty,"Dubai, UAE",Yes,No,2464.59
+4MW22ME154,Abhishek Yadav,"Athens, Greece",Yes,Yes,5751.53
+4MW11EC772,Chandan Aggarwal,"Munich, Germany",No,No,6973.19
+4MW15CS648,Aakash Goswami,"Hamburg, Germany",No,No,7207.36
+4MW20ME405,Chitra Kapoor,"Christchurch, New Zealand",Yes,Yes,11612.59
+4MW21ME366,Nikhil Verma,Alwar,No,Yes,1615.74
+4MW22ME995,Farah Kapoor,"Durban, South Africa",Yes,No,6671.54
+4MW13EC466,Zayan Prasad,"Caracas, Venezuela",Yes,No,15072.33
+4MW20EC638,Aakash Goswami,Bankura,No,No,1727.24
+4MW11ME726,Zara Nair,Bangalore,Yes,No,300.3
+4MW13CS298,Jatin Iyer,"Lima, Peru",No,Yes,16980.51
+4MW22EC774,Oma Nair,"Shenzhen, China",No,Yes,4278.2
+4MW15ME658,Omkar Khan,"Mombasa, Kenya",No,Yes,4319.33
+4MW23CS204,Jeevan Reddy,"Phoenix, USA",No,No,14821.35
+4MW16CS573,Eshan Nair,"Christchurch, New Zealand",Yes,Yes,11612.59
+4MW22EC463,Pooja Iyer,Ranchi,No,No,1600.57
+4MW17CS357,Zeeshan Shetty,"Brno, Czech Republic",No,Yes,6640.82
+4MW13CV416,Siddharth Gupta,Dimapur,Yes,No,2442.44
+4MW23CV731,Aarohi Sinha,Tirupati,No,No,501.24
+4MW12CS163,Nirav Das,Pondicherry,No,Yes,582.85
+4MW21EC377,Vandana Rao,Jorhat,No,Yes,2534.96
+4MW14CV856,Esha Jha,Banda,Yes,No,1510.53
+4MW17ME825,Jasmine Goswami,Jaipur,No,No,1553.31
+4MW11CS020,Zayan Aggarwal,"Halifax, Canada",No,Yes,12381.99
+4MW23EC153,Umesh Nair,"Rome, Italy",No,No,6781
+4MW13CS336,Lavanya Bhatt,Leh,No,No,2369.81
+4MW16ME699,Vihan Mishra,"Johannesburg, South Africa",No,Yes,6663.02
+4MW15ME320,Ritika Naidu,Haridwar,No,Yes,1915.35
+4MW21ME698,Lalit Rao,Ahmedabad,Yes,Yes,1144.31
+4MW17CS207,Harini Thakur,"Auckland, New Zealand",Yes,Yes,11738.38
+4MW11EC496,Chetanya Nair,Kanpur,No,No,1604.8
+4MW17CV539,Deepak Deshmukh,Panipat,No,Yes,1837.55
+4MW22CV475,Imran Deshmukh,Kohima,No,Yes,2460.95
+4MW13CS718,Heena Jha,Jaipur,Yes,Yes,1553.31
+4MW12ME715,Chandan Das,"Caracas, Venezuela",Yes,No,15072.33
+4MW11CV419,Kunal Naidu,Shahjahanpur,Yes,Yes,1736.68
+4MW18EC619,Ananya Menon,Ghazipur,No,Yes,1672.01
+4MW17CV465,Yuvraj Chauhan,Hardoi,Yes,No,1687.62
+4MW10CV781,Abhinav Singh,"Rome, Italy",Yes,Yes,6781
+4MW22CS037,Indu Bhatt,Haldia,No,No,1726.05
+4MW15CV538,Manish Sharma,Tezpur,No,No,2407.76
+4MW13EC153,Juhi Deshmukh,Silvassa,No,No,838.04
+4MW21EC088,Yasmin Iyer,Panipat,Yes,No,1837.55
+4MW21EC428,Eshwar Reddy,Jhunjhunu,No,Yes,1680.1
+4MW18ME007,Oindrila Gupta,"Dhaka, Bangladesh",No,No,2031.18
+4MW22ME306,Gitanjali Thakur,"Durban, South Africa",No,No,6671.54
+4MW17EC909,Tushar Khan,"Toronto, Canada",Yes,Yes,13219.41
+4MW24CS546,Vihan Sinha,Giridih,No,Yes,1735.53
+4MW16CS931,Uttam Verma,Panaji,No,Yes,306.75
+4MW15EC058,Zayan Aggarwal,Port Blair,No,Yes,1949.91
+4MW10CS532,Devendra Thakur,Banda,Yes,No,1510.53
+4MW13EC481,Eklavya Aggarwal,Ranchi,No,Yes,1600.57
+4MW20CS374,Kavita Sharma,Palwal,Yes,No,1696.34
+4MW12ME688,Falguni Bhatt,"Bologna, Italy",Yes,No,6918.04
+4MW16EC566,Bhaskar Kapoor,Faizabad,Yes,Yes,2966.36
+4MW19EC680,Dilip Prasad,"Manila, Philippines",Yes,No,4983.42
+4MW16ME137,Leela Deshmukh,Dibrugarh,No,Yes,2636.82
+4MW18EC601,Harish Chauhan,Hong Kong,Yes,Yes,4288.73
+4MW24EC038,Tanmay Chauhan,Sultanpur,No,No,1667.03
+4MW22CV043,Deepika Goswami,"Almaty, Kazakhstan",No,Yes,3366.77
+4MW11EC747,Sandeep Prasad,"Prague, Czech Republic",Yes,No,6817.29
+4MW18CV653,Eklavya Aggarwal,Bhubaneswar,No,No,1425.5
+4MW21CV892,Yashwant Iyer,Kathua,Yes,Yes,2156.48
+4MW24CV452,Aniket Sinha,"Rosario, Argentina",No,No,15001.25
+4MW10CV326,Dhanush Menon,Shivpuri,Yes,No,1414.09
+4MW11CS325,Chhavi Nair,Dharamshala,No,No,2142.63
+4MW19ME848,Faizan Nair,"Jakarta, Indonesia",No,No,4118.31
+4MW11EC099,Sonia Rao,"Manila, Philippines",Yes,Yes,4983.42
+4MW24CV215,Deepika Goswami,Porbandar,Yes,Yes,1114.92
+4MW20EC420,Abhishek Yadav,"Munich, Germany",No,Yes,6973.19
+4MW15CV122,Oindrila Gupta,Farrukhabad,No,No,1678.6
+4MW16CS736,Zubin Kapoor,Satna,No,No,1445.13
+4MW24CV471,Mohan Khan,Noida,No,Yes,1752.31
+4MW14EC715,Zaina Naidu,Jamshedpur,Yes,No,1624.45
+4MW14CS940,Chitra Kapoor,"Austin, USA",No,Yes,15160.97
+4MW20ME567,Ekta Thakur,Dhamtari,No,No,1115.76
+4MW18EC955,Aniket Sinha,Bharatpur,Yes,No,1582.68
+4MW15CS438,Brijesh Mishra,Silchar,Yes,Yes,2299.91
+4MW21EC267,Kavita Bhatt,"Miami, USA",No,No,14950.04
+4MW15ME614,Imran Deshmukh,"Rabat, Morocco",No,No,8463.44
+4MW18CV308,Pratap Mehta,"Halifax, Canada",Yes,Yes,12381.99
+4MW11CV085,Zaina Naidu,Tiruchirappalli,Yes,No,478.16
+4MW18EC154,Kajal Jha,"Colombo, Sri Lanka",Yes,Yes,858.45
+4MW14ME041,Zoravar Naidu,"Abu Dhabi, UAE",No,No,2504.4
+4MW18ME423,Abhishek Yadav,"Edmonton, Canada",Yes,Yes,12597.73
+4MW14CS786,Zohra Das,"Milan, Italy",No,No,7102.28
+4MW11CS889,Imran Deshmukh,"Canberra, Australia",Yes,No,9448.21
+4MW19EC054,Brijesh Mishra,"Frankfurt, Germany",Yes,No,7221.38
+4MW13CS691,Kajal Jha,"Detroit, USA",Yes,Yes,13485.93
+4MW13CS807,Ritika Naidu,Haridwar,Yes,Yes,1915.35
+4MW21CS501,Eshan Nair,Neemuch,Yes,No,1297.38
+4MW12CV172,Trisha Iyer,"Atlanta, USA",Yes,No,14395.12
+4MW18CV194,Pranav Shetty,"Auckland, New Zealand",No,No,11738.38
+4MW20EC091,Arjun Prasad,"Buenos Aires, Argentina",Yes,No,14753.89
+4MW16EC109,Imran Deshmukh,"Chicago, USA",Yes,No,13679.48
+4MW16EC272,Vidya Prasad,Sehore,Yes,Yes,1152.99
+4MW14EC636,Ishan Nair,Shillong,No,Yes,2269.09
+4MW18ME357,Manish Sharma,Navsari,Yes,No,912.85
+4MW13CS511,Omkar Bhatt,"Phoenix, USA",Yes,Yes,14821.35
+4MW22EC312,Govind Sinha,Haldia,Yes,Yes,1726.05
+4MW24ME239,Tushar Khan,Shimla,Yes,No,2028.27
+4MW16ME385,Prakash Rao,Dumka,Yes,No,1811.65
+4MW10EC381,Farah Kapoor,Goa (general),Yes,Yes,303.36
+4MW13EC041,Gaurav Verma,"Bali, Indonesia",Yes,Yes,5036.11
+4MW15EC738,Kajal Jha,"Krakow, Poland",Yes,No,6441.84
+4MW15CS508,Imran Deshmukh,"Johannesburg, South Africa",Yes,No,6663.02
+4MW19CV757,Abhishek Yadav,"Santiago, Chile",Yes,No,15855.3
+4MW14EC856,Tanvi Mishra,"Geneva, Switzerland",Yes,Yes,7347.1
+4MW20EC004,Yash Das,Mumbai,No,No,712.01
+4MW12EC902,Heena Jha,Saharanpur,No,Yes,1909.93
+4MW18EC995,Nitin Reddy,"Stockholm, Sweden",No,No,6928.45
+4MW17CV059,Chirag Sinha,"Kuala Lumpur, Malaysia",No,Yes,3146.08
+4MW23ME027,Zara Nair,"Valencia, Spain",No,Yes,7846.86
+4MW18ME166,Anirudh Chauhan,"Shanghai, China",No,Yes,5174.01
+4MW11ME789,Anirudh Chauhan,Jhansi,No,No,1452.18
+4MW12EC215,Chirag Mehta,"Santiago, Chile",No,No,15855.3
+4MW14CV845,Nirav Das,Bhavnagar,No,No,1021.8
+4MW12CS048,Mohan Goswami,Ballia,No,No,1732.04
+4MW17EC890,Nisha Verma,"Hamilton, New Zealand",No,No,11791.83
+4MW20CS200,Lokesh Gupta,"Minneapolis, USA",Yes,Yes,13482.98
+4MW16EC085,Rajesh Das,Jorhat,No,No,2534.96
+4MW18CV691,Nandini Reddy,"Wellington, New Zealand",Yes,Yes,11772.73
+4MW24EC585,Sonia Rao,"Belo Horizonte, Brazil",No,No,13483.85
+4MW24ME677,Divya Menon,Etawah,Yes,No,1590.63
+4MW14CV781,Lakshay Yadav,Neemuch,Yes,Yes,1297.38
+4MW15EC106,Zeeshan Shetty,"Chengdu, China",Yes,No,3584.46
+4MW24EC571,Abhinav Singh,Nainital,Yes,No,1885.39
+4MW17CV285,Saurabh Naidu,Gandhinagar,No,No,1164.64
+4MW17CS910,Aakash Goswami,"Colombo, Sri Lanka",Yes,No,858.45
+4MW19CS626,Gaurav Verma,"Nagoya, Japan",Yes,No,6661.39
+4MW19ME068,Hardik Reddy,"Gothenburg, Sweden",No,No,7203.27
+4MW13EC704,Isha Goswami,"Atlanta, USA",Yes,No,14395.12
+4MW17EC912,Farida Aggarwal,"Dubai, UAE",Yes,No,2464.59
+4MW15EC613,Dhanush Menon,Sonipat,Yes,Yes,1794.63
+4MW21ME572,Sandeep Prasad,Nashik,No,No,793.59
+4MW21CV888,Faisal Bhatt,"Valparaíso, Chile",No,Yes,15955.55
+4MW19CS682,Farida Aggarwal,Rudrapur,Yes,No,1838.92
+4MW14CS405,Chandan Das,Farrukhabad,Yes,Yes,1678.6
+4MW16ME957,Karan Thakur,Bharatpur,No,No,1582.68
+4MW16CV033,Tanvi Verma,Bilaspur,No,Yes,1282.13
+4MW21CV210,Manish Iyer,Kochi,Yes,Yes,359.39
+4MW11CS195,Ekta Chauhan,"Ottawa, Canada",Yes,No,12901.41
+4MW10CS337,Mona Deshmukh,Faizabad,No,Yes,2966.36
+4MW10ME778,Leela Nair,Rohtak,No,Yes,1779.08
+4MW13CV402,Nandini Reddy,"Canberra, Australia",No,No,9448.21
+4MW23ME266,Uday Yadav,"Riga, Latvia",Yes,Yes,6494.43
+4MW17ME278,Yasmin Mishra,Ballia,Yes,No,1732.04
+4MW14ME597,Raghav Rao,Silvassa,No,Yes,838.04
+4MW20CV952,Uday Sharma,Satna,No,No,1445.13
+4MW23CS449,Farah Kapoor,"Zurich, Switzerland",No,No,7182.56
+4MW24ME426,Jagdish Mehta,Itarsi,No,No,1117.09
+4MW22CV102,Charu Aggarwal,Betul,No,No,1042.73
+4MW18CS872,Harish Sharma,"Hanoi, Vietnam",No,Yes,3414.49
+4MW22CS995,Bharat Jha,Itanagar,Yes,No,2508.2
+4MW13EC558,Ishita Nair,"Penang, Malaysia",No,No,2909.93
+4MW17EC585,Yasmin Mishra,Ajmer,No,Yes,1500.77
+4MW21EC877,Gitanjali Goswami,Udaipur,No,Yes,1297.03
+4MW22EC242,Hina Reddy,"Cape Town, South Africa",No,Yes,7906.46
+4MW20EC523,Zaina Naidu,"Cebu, Philippines",Yes,No,5338.59
+4MW10ME325,Raghav Nair,Ujjain,No,Yes,1141.32
+4MW24CS282,Indu Bhatt,Aizawl,No,Yes,2234.48
+4MW23EC284,Chetanya Nair,"Toulouse, France",No,Yes,7697.73
+4MW22EC579,Zoravar Naidu,Jhansi,No,Yes,1452.18
+4MW24EC401,Zaina Naidu,Daltonganj,Yes,No,1567.97
+4MW23EC856,Falguni Bhatt,"Hangzhou, China",Yes,No,5032.51
+4MW16CS072,Omkar Prasad,Anantapur,Yes,No,342.91
+4MW11CV860,Brijesh Mishra,Jammu,No,Yes,2193.33
+4MW13ME469,Vidya Iyer,Alwar,No,Yes,1615.74
+4MW16CV047,Neha Sharma,Chaibasa,No,Yes,1576.24
+4MW15CS202,Dhanush Menon,"Paris, France",No,No,7661.31
+4MW22ME029,Zayan Prasad,Kakinada,Yes,Yes,910.32
+4MW12ME662,Farah Kapoor,Panaji,Yes,No,306.75
+4MW10EC003,Ekansh Jha,Belgaum,Yes,No,327.81
+4MW13CS071,Samar Iyer,"Nairobi, Kenya",No,Yes,4484.65
+4MW11EC353,Jagdish Sinha,Sonipat,Yes,No,1794.63
+4MW17EC797,Sandeep Prasad,"San Diego, USA",Yes,No,14796.67
+4MW21CS519,Parul Khan,"Toronto, Canada",Yes,Yes,13219.41
+4MW13ME358,Tanmay Mehta,"Canberra, Australia",No,Yes,9448.21
+4MW18EC055,Kamal Jha,Ghazipur,Yes,No,1672.01
+4MW18EC227,Urvashi Naidu,Vadodara,No,No,1053.34
+4MW11CV689,Omkar Prasad,"Athens, Greece",No,No,5751.53
+4MW13EC060,Nitin Reddy,Ujjain,Yes,No,1141.32
+4MW12EC395,Chandan Aggarwal,Junagadh,No,No,1061.05
+4MW14CS674,Lata Gupta,Visakhapatnam,Yes,No,1048.75
+4MW22ME718,Zaina Naidu,Rohtak,Yes,Yes,1779.08
+4MW12EC448,Tanmay Naidu,Kullu,Yes,Yes,2121.51
+4MW14CS178,Aniket Sinha,Ranchi,No,Yes,1600.57
+4MW12EC088,Zeeshan Shetty,"Vienna, Austria",Yes,No,6627.98
+4MW14CS633,Tarun Shetty,Raipur,Yes,Yes,1169.58
+4MW10ME880,Tushar Khan,Saharanpur,Yes,Yes,1909.93
+4MW19CV849,Harsha Thakur,Bhilwara,No,No,1393.12
+4MW23EC114,Garima Deshmukh,"Milan, Italy",No,No,7102.28
+4MW12CS288,Chetan Bhatt,Bhavnagar,Yes,No,1021.8
+4MW13CV833,Lokesh Gupta,Itarsi,No,Yes,1117.09
+4MW21EC241,Lalit Mehta,"Geneva, Switzerland",No,No,7347.1
+4MW18CV286,Lokesh Aggarwal,"Medellín, Colombia",No,Yes,16131.4
+4MW21EC620,Madhav Mishra,"Manchester, UK",Yes,Yes,8010.68
+4MW11EC128,Eshwar Reddy,"Paris, France",No,No,7661.31
+4MW21CS175,Yash Thakur,"Kampala, Uganda",No,Yes,4867.14
+4MW15EC587,Faisal Goswami,"Amsterdam, Netherlands",No,No,7521.79
+4MW11CV108,Uma Das,Banda,Yes,Yes,1510.53
+4MW11EC964,Garima Deshmukh,"Sydney, Australia",Yes,Yes,9580.09
+4MW12EC835,Uday Sharma,Silvassa,No,Yes,838.04
+4MW17ME002,Omkar Khan,"Accra, Ghana",Yes,No,8263.33
+4MW21EC388,Faizan Nair,Gonda,No,No,1735.82
+4MW14EC067,Zoravar Naidu,"Minneapolis, USA",Yes,Yes,13482.98
+4MW14EC875,Faisal Bhatt,Ambala,Yes,Yes,1944.52
+4MW22ME403,Lalit Mehta,"Manchester, UK",Yes,Yes,8010.68
+4MW12ME837,Yogesh Prasad,"Valparaíso, Chile",Yes,No,15955.55
+4MW14CS705,Aakash Goswami,"Medellín, Colombia",No,Yes,16131.4
+4MW17CV701,Zubin Kapoor,"Cork, Ireland",No,No,8432.6
+4MW13EC793,Girish Mehta,Kavaratti,No,No,354.64
+4MW17EC090,Gopal Jha,Kakinada,No,Yes,910.32
+4MW14ME144,Yamini Shetty,Bharatpur,No,No,1582.68
+4MW24EC184,Devendra Thakur,"Taipei, Taiwan",No,No,5071.48
+4MW11EC047,Vidya Iyer,Unnao,Yes,No,1627.01
+4MW23EC653,Oma Nair,Itanagar,Yes,No,2508.2
+4MW21CV520,Pranav Verma,Dharwad,Yes,No,273.45
+4MW18ME637,Lalit Rao,Varanasi,Yes,No,1619.33
+4MW21EC680,Zaina Naidu,Sambhal,Yes,Yes,1759.95
+4MW11CV497,Harsh Bhatt,Kathua,Yes,Yes,2156.48
+4MW12EC714,Ekta Thakur,Dharwad,No,No,273.45
+4MW23EC476,Yash Thakur,"Rio de Janeiro, Brazil",No,No,13421.77
+4MW20ME545,Govind Sinha,"Riga, Latvia",No,Yes,6494.43
+4MW17EC019,Meera Reddy,Salem,Yes,No,13349.78
+4MW24ME897,Vaishali Yadav,Haldwani,No,Yes,1868.38
+4MW20ME245,Jatin Iyer,"Bangkok, Thailand",No,Yes,2777.78
+4MW24EC519,Harini Thakur,Sonipat,No,No,1794.63
+4MW15EC108,Keshav Nair,"Quito, Ecuador",No,Yes,16773.88
+4MW13ME916,Chhavi Nair,Haldwani,No,Yes,1868.38
+4MW12EC067,Tanvi Verma,"Eindhoven, Netherlands",Yes,No,7467.58
+4MW17CV346,Eshwar Shetty,"Lagos, Nigeria",No,Yes,7853.43
+4MW10EC103,Dipti Chauhan,"Wellington, New Zealand",Yes,Yes,11772.73
+4MW22EC654,Anirudh Chauhan,"Salt Lake City, USA",Yes,Yes,14021.65
+4MW13CV167,Gopal Jha,Ajmer,Yes,Yes,1500.77
+4MW13ME842,Sonia Rao,"Austin, USA",Yes,No,15160.97
+4MW11EC726,Prakash Rao,"Kaohsiung, Taiwan",Yes,No,4918.91
+4MW12EC723,Isha Goswami,Ahmedabad,Yes,No,1144.31
+4MW18CV809,Jeevan Goswami,"Atlanta, USA",No,No,14395.12
+4MW10EC711,Tanvi Verma,"Kaohsiung, Taiwan",Yes,Yes,4918.91
+4MW17EC439,Bhavesh Shetty,"Edinburgh, UK",Yes,No,8083
+4MW13CS649,Farah Kapoor,Moradabad,Yes,No,1814.51
+4MW10EC766,Naveen Gupta,"Krakow, Poland",No,No,6441.84
+4MW19CV499,Tushar Khan,"Nairobi, Kenya",No,No,4484.65
+4MW15CV733,Hitesh Reddy,Malda,No,No,1933.4
+4MW14CS495,Faizan Nair,"Quito, Ecuador",Yes,Yes,16773.88
+4MW15EC577,Bhavna Thakur,"Vilnius, Lithuania",No,Yes,6312.78
+4MW23CS965,Kiran Reddy,Port Blair,No,No,1949.91
+4MW15ME147,Nikhil Verma,"Zurich, Switzerland",No,No,7182.56
+4MW10EC757,Rohan Sharma,Tiruchirappalli,No,No,478.16
+4MW20ME665,Madhur Deshmukh,"Beijing, China",No,Yes,5054.52
+4MW13EC639,Zayan Aggarwal,Agra,Yes,No,1612.7
+4MW21CV912,Simran Gupta,"London, UK",Yes,Yes,7856.87
+4MW11ME997,Aarohi Sinha,Mathura,Yes,Yes,1640.99
+4MW14ME826,Deepika Goswami,Srinagar,Yes,No,2343.75
+4MW14EC953,Gopal Deshmukh,Guntur,No,No,709.46
+4MW16CS550,Zohra Naidu,Guntur,Yes,Yes,709.46
+4MW16EC321,Nitin Reddy,Neemuch,No,Yes,1297.38
+4MW18EC866,Kajal Jha,"Osaka, Japan",No,Yes,6528.98
+4MW12CV492,Divya Menon,Raebareli,Yes,No,1615.24
+4MW16CV592,Esha Jha,"Caracas, Venezuela",Yes,No,15072.33
+4MW24EC988,Yogesh Prasad,Tirupati,No,No,501.24
+4MW12EC534,Girish Menon,Bharatpur,No,Yes,1582.68
+4MW16EC186,Pankaj Mishra,"Milan, Italy",Yes,No,7102.28
+4MW22EC148,Chirag Mehta,Guwahati,No,No,2297.74
+4MW18EC552,Saurabh Naidu,Nizamabad,No,Yes,725.72
+4MW22CS072,Yashwant Iyer,Jodhpur,Yes,No,1493.69
+4MW16CV242,Bhavya Nair,Gandhinagar,Yes,No,1164.64
+4MW12CS359,Devansh Goswami,Alwar,Yes,Yes,1615.74
+4MW11ME684,Nisha Verma,Jamnagar,No,Yes,1173.86
+4MW16EC952,Charulata Menon,"Porto Alegre, Brazil",No,No,14186.38
+4MW21CS427,Yamini Shetty,Dharwad,No,No,273.45
+4MW21EC846,Zubin Kapoor,Una,Yes,No,6547.94
+4MW12ME535,Mona Deshmukh,"Ottawa, Canada",Yes,No,12901.41
+4MW14EC099,Dhanush Menon,"Krakow, Poland",Yes,Yes,6441.84
+4MW16CV288,Sonia Rao,Silchar,No,Yes,2299.91
+4MW13CS477,Charulata Menon,"Luxembourg City, Luxembourg",No,Yes,7394.2
+4MW24CV737,Bhavya Nair,"Oslo, Norway",No,No,7340.18
+4MW21EC765,Tanmay Chauhan,"Lisbon, Portugal",Yes,No,8608.42
+4MW10EC268,Gopal Jha,"Victoria, Canada",Yes,Yes,12976.59
+4MW17CS243,Eshan Nair,Satna,No,No,1445.13
+4MW12EC282,Samar Nair,Pune,Yes,Yes,629.69
+4MW16EC732,Damini Sinha,Almora,Yes,No,1918.02
+4MW21EC582,Tanvi Verma,Itanagar,Yes,No,2508.2
+4MW14EC496,Raghav Reddy,Midnapore,Yes,Yes,1688.8
+4MW18CS139,Heena Jha,"San Francisco, USA",Yes,Yes,14112.29
+4MW10CS261,Indrajit Gupta,Betul,Yes,No,1042.73
+4MW10CS422,Farah Kapoor,"Accra, Ghana",No,Yes,8263.33
+4MW18EC406,Tarun Shetty,Amritsar,Yes,No,2073.25
+4MW24EC387,Pooja Sharma,"Luxembourg City, Luxembourg",No,Yes,7394.2
+4MW14CS144,Aniket Sinha,Belgaum,Yes,Yes,327.81
+4MW17ME394,Hina Reddy,Betul,Yes,No,1042.73
+4MW23CV871,Yashwant Iyer,Asansol,Yes,No,1748.26
+4MW19CS619,Garima Deshmukh,Ghazipur,Yes,Yes,1672.01
+4MW22EC511,Esha Jha,"Riyadh, Saudi Arabia",Yes,No,3321.87
+4MW17ME699,Yogesh Prasad,"Berlin, Germany",No,Yes,6958.28
+4MW22ME185,Keshav Nair,Jhunjhunu,Yes,Yes,1680.1
+4MW19ME627,Jagdish Sinha,Rudrapur,No,Yes,1838.92
+4MW19CV899,Jagdish Mehta,Daltonganj,No,No,1567.97
+4MW12CV468,Jatin Iyer,"Edinburgh, UK",No,No,8083
+4MW20CS974,Gaurav Verma,Pune,Yes,Yes,629.69
+4MW18EC826,Vikas Das,Haldwani,No,Yes,1868.38
+4MW22EC873,Simran Gupta,Shahjahanpur,No,No,1736.68
+4MW13EC087,Oma Nair,Rishikesh,No,Yes,1936.58
+4MW17CV166,Bhavya Nair,Gandhinagar,No,Yes,1164.64
+4MW20CS497,Oindrila Mehta,Chaibasa,No,Yes,1576.24
+4MW12ME543,Vandana Rao,Agra,No,No,1612.7
+4MW13ME290,Lalit Rao,"Phoenix, USA",No,Yes,14821.35
+4MW20CV126,Harsh Bhatt,Srinagar,Yes,Yes,2343.75
+4MW23EC651,Chandan Aggarwal,Firozabad,Yes,No,1624.97
+4MW13ME146,Kavita Bhatt,Nellore,Yes,Yes,580.49
+4MW18ME460,Uday Kapoor,Bhopal,No,Yes,1176.14
+4MW12CV484,Aaditya Sharma,"Córdoba, Argentina",Yes,No,15368.2
+4MW13EC146,Girish Menon,Etawah,No,No,1590.63
+4MW19ME231,Gitanjali Goswami,"Oslo, Norway",Yes,Yes,7340.18
+4MW17CS736,Prakash Rao,"Raleigh, USA",No,No,13941.46
+4MW23EC369,Harish Chauhan,Hoshangabad,No,Yes,1129.28
+4MW16ME798,Eshita Kapoor,Mehsana,Yes,No,1211.58
+4MW16EC048,Sonia Rao,Ghazipur,No,Yes,1672.01
+4MW20EC556,Zayan Aggarwal,Yamunanagar,Yes,Yes,1921.94
+4MW13EC566,Vaishali Yadav,"Boston, USA",Yes,No,12968.74
+4MW13EC768,Damini Sinha,"Portland, USA",Yes,No,13298.63
+4MW16EC032,Tejas Yadav,"Sydney, Australia",Yes,Yes,9580.09
+4MW12EC232,Zubin Kapoor,Aizawl,Yes,Yes,2234.48
+4MW12ME557,Laxman Bhatt,Haridwar,No,No,1915.35
+4MW11CS279,Siddharth Gupta,Porbandar,No,No,1114.92
+4MW10EC029,Hina Aggarwal,Bhopal,Yes,Yes,1176.14
+4MW24CV745,Pranav Shetty,"Rio de Janeiro, Brazil",No,No,13421.77
+4MW17EC336,Rashmi Gupta,"Seattle, USA",Yes,Yes,13088.68
+4MW21ME607,Eshwar Shetty,Vijayawada,Yes,Yes,736.92
+4MW22CS583,Raghav Rao,Moradabad,No,Yes,1814.51
+4MW10CS988,Tarun Shetty,Visakhapatnam,Yes,No,1048.75
+4MW22EC745,Parul Khan,Karimnagar,Yes,No,763.68
+4MW21CS111,Gitanjali Goswami,Lohardaga,No,No,1564.22
+4MW19EC227,Ishan Nair,Tehri,No,No,1970.36
+4MW23EC321,Oma Nair,Hazaribagh,No,Yes,1668.85
+4MW14EC323,Ishan Nair,"Amsterdam, Netherlands",Yes,No,7521.79
+4MW18EC006,Yasmin Mishra,"Mombasa, Kenya",No,Yes,4319.33
+4MW17EC573,Damini Sinha,"Austin, USA",No,No,15160.97
+4MW18EC456,Gopal Deshmukh,Tehri,No,Yes,1970.36
+4MW19EC504,Farah Kapoor,"Oslo, Norway",Yes,No,7340.18
+4MW16EC713,Ekta Thakur,Udaipur,Yes,No,1297.03
+4MW15EC339,Vihan Gupta,Deoria,Yes,No,1761.7
+4MW22ME548,Feroz Nair,"Pittsburgh, USA",No,No,13555.95
+4MW21ME123,Tarun Shetty,"Edinburgh, UK",No,Yes,8083
+4MW15CS350,Harsha Thakur,"Prague, Czech Republic",No,No,6817.29
+4MW14EC644,Jeevan Reddy,Jalandhar,No,No,2036.48
+4MW13EC175,Ramesh Iyer,Asansol,No,No,1748.26
+4MW22ME380,Feroz Nair,Farrukhabad,Yes,No,1678.6
+4MW10EC112,Utkarsh Mishra,"Brasília, Brazil",Yes,Yes,14373.09
+4MW14ME491,Darshan Desai,"Stuttgart, Germany",Yes,No,7160.43
+4MW10CV764,Zara Nair,Jaunpur,No,No,1634.96
+4MW19CS465,Faisal Goswami,Ghazipur,No,No,1672.01
+4MW11CV900,Faisal Goswami,Palampur,Yes,Yes,2132.71
+4MW22EC715,Sonia Rao,Una,No,Yes,6547.94
+4MW24CS513,Farzana Sinha,Sivasagar,Yes,No,2584.53
+4MW10CS672,Karan Thakur,Jamshedpur,Yes,Yes,1624.45
+4MW15CS263,Govind Sinha,Ghazipur,Yes,Yes,1672.01
+4MW23EC637,Ahaan Kumar,"Pittsburgh, USA",No,No,13555.95
+4MW11ME383,Omkar Bhatt,"Nagoya, Japan",No,Yes,6661.39
+4MW21CS336,Juhi Deshmukh,Vapi,Yes,No,851.21
+4MW13CS208,Omkar Khan,Pune,Yes,Yes,629.69
+4MW10EC107,Omkar Bhatt,Moradabad,No,Yes,1814.51
+4MW19EC888,Eklavya Chauhan,Gurugram,Yes,No,1736.43
+4MW19CV303,Ipsita Aggarwal,"San Francisco, USA",No,Yes,14112.29
+4MW12EC236,Nitin Reddy,Farrukhabad,Yes,Yes,1678.6
+4MW13CS352,Saurabh Naidu,Jorhat,Yes,Yes,2534.96
+4MW12ME463,Kartik Verma,"Riga, Latvia",No,Yes,6494.43
+4MW19EC655,Nitin Reddy,Mandsaur,No,No,1257.43
+4MW15CS565,Zayan Aggarwal,Kharagpur,No,Yes,1681.57
+4MW15ME254,Dilip Prasad,"Nairobi, Kenya",Yes,No,4484.65
+4MW11ME295,Mohan Khan,"Warsaw, Poland",No,Yes,6457.25
+4MW13CV153,Oma Nair,Navsari,No,Yes,912.85
+4MW24CV545,Pranav Shetty,"Algiers, Algeria",No,No,7547.94
+4MW12EC646,Govind Sinha,Kavaratti,No,Yes,354.64
+4MW23CS906,Keshav Sharma,Nashik,Yes,Yes,793.59
+4MW22CS879,Meera Khan,"Brno, Czech Republic",Yes,No,6640.82
+4MW14EC337,Karan Thakur,Solan,No,No,7675.21
+4MW18EC395,Lokesh Gupta,Bareilly,No,Yes,1784.52
+4MW12CS759,Madhav Mishra,Jhansi,Yes,No,1452.18
+4MW20EC274,Deepak Deshmukh,Jagdalpur,No,Yes,1026.85
+4MW10CV654,Manish Iyer,Surat,No,No,942.96
+4MW18CS073,Mona Deshmukh,Dharwad,No,Yes,273.45
+4MW11CV061,Aniket Sinha,"Córdoba, Argentina",Yes,Yes,15368.2
+4MW14EC511,Ramesh Iyer,Hubli,No,Yes,271.43
+4MW18EC963,Tanmay Chauhan,Kolkata,No,Yes,1785.47
+4MW16ME416,Dipti Chauhan,"Riyadh, Saudi Arabia",Yes,Yes,3321.87
+4MW13ME327,Eshwar Shetty,Jammu,No,No,2193.33
+4MW13EC101,Uday Yadav,Kanpur,Yes,No,1604.8
+4MW24EC080,Harsh Bhatt,"Seoul, South Korea",No,Yes,5826
+4MW23CV921,Pratap Mehta,Anantapur,No,No,342.91
+4MW15EC728,Zara Nair,"Athens, Greece",No,Yes,5751.53
+4MW18CV795,Aditi Prasad,Bhiwadi,Yes,No,1705.29
+4MW16EC487,Ekta Thakur,Jaunpur,Yes,Yes,1634.96
+4MW16CV253,Uma Rao,"Montreal, Canada",Yes,No,12803.12
+4MW12CV536,Damini Sinha,Tinsukia,No,Yes,2674.85
+4MW21CV092,Imran Aggarwal,Satna,Yes,No,1445.13
+4MW17EC374,Karan Thakur,Banda,Yes,No,1510.53
+4MW19CS620,Rashmi Gupta,"Boston, USA",Yes,No,12968.74
+4MW22EC162,Vihan Mishra,"San Francisco, USA",Yes,No,14112.29
+4MW23EC042,Vihan Gupta,Warangal,Yes,Yes,757.08
+4MW13EC603,Gopal Jha,"Krakow, Poland",No,No,6441.84
+4MW16CS909,Oorja Rao,Patna,Yes,Yes,1770.09
+4MW22CS270,Falguni Bhatt,Ajmer,No,No,1500.77
+4MW21EC391,Oindrila Gupta,"Marseille, France",Yes,Yes,7378.63
+4MW20ME404,Ekansh Jha,"Porto, Portugal",No,Yes,8534.56
+4MW13EC914,Zaina Naidu,"Edinburgh, UK",No,Yes,8083
+4MW20ME242,Mohan Goswami,Hamirpur,No,No,1519.71
+4MW24CV063,Yash Das,"Salt Lake City, USA",Yes,No,14021.65
+4MW16EC298,Bhuvan Thakur,"Durban, South Africa",Yes,No,6671.54
+4MW10EC081,Lalit Rao,Coimbatore,Yes,Yes,312.09
+4MW24CV889,Nirav Das,Dharamshala,Yes,Yes,2142.63
+4MW24CS594,Prerna Mehta,Yamunanagar,Yes,No,1921.94
+4MW13EC121,Damini Sinha,Silchar,No,No,2299.91
+4MW23EC127,Dhanush Menon,"Boston, USA",Yes,No,12968.74
+4MW21EC419,Nikhil Jha,Mau,Yes,No,1711.52
+4MW16CV045,Laxman Bhatt,"Copenhagen, Denmark",Yes,Yes,7105.24
+4MW19CS022,Harsh Bhatt,"Dhaka, Bangladesh",No,No,2031.18
+4MW13EC377,Abhishek Yadav,Ranchi,Yes,Yes,1600.57
+4MW10CS728,Pranav Verma,Hong Kong,Yes,No,4288.73
+4MW14CV460,Eshwar Shetty,Vadodara,Yes,No,1053.34
+4MW19EC380,Harsha Thakur,Katni,Yes,Yes,1324.82
+4MW14ME409,Ishita Nair,"Seattle, USA",Yes,Yes,13088.68
+4MW21EC334,Mona Deshmukh,Hisar,Yes,Yes,1810.36
+4MW11CS759,Hina Reddy,Imphal,No,Yes,2397.98
+4MW16EC853,Jatin Iyer,Singapore,No,Yes,3439.48
+4MW13CS589,Rohan Sharma,"Denver, USA",Yes,No,14175.12
+4MW15EC561,Chirag Mehta,Shahjahanpur,Yes,No,1736.68
+4MW18EC919,Zayan Prasad,Kolhapur,No,No,424.41
+4MW18EC910,Uma Rao,Giridih,No,No,1735.53
+4MW14EC021,Darshan Desai,"Auckland, New Zealand",No,No,11738.38
+4MW18CV909,Utkarsh Mishra,Moradabad,Yes,No,1814.51
+4MW19CS718,Vidya Iyer,Karimnagar,No,Yes,763.68
+4MW13CS398,Prerna Mehta,"Caracas, Venezuela",No,No,15072.33
+4MW10EC904,Jeevan Reddy,Almora,Yes,No,1918.02
+4MW24EC420,Uday Yadav,Nellore,No,Yes,580.49
+4MW24CS744,Fardeen Kapoor,"Munich, Germany",Yes,No,6973.19
+4MW20EC651,Sonia Rao,Baramulla,No,Yes,2359.17
+4MW12CS365,Vivek Rao,Madurai,Yes,Yes,485.42
+4MW10ME033,Hardik Reddy,Porbandar,No,No,1114.92
+4MW19CS281,Tara Khan,Hoshangabad,No,Yes,1129.28
+4MW23CV106,Jatin Iyer,Guntur,Yes,Yes,709.46
+4MW15EC673,Aditi Prasad,"Boston, USA",Yes,No,12968.74
+4MW21CV525,Manish Sharma,Chandigarh,Yes,Yes,1983.09
+4MW10CS325,Chirag Mehta,"Abuja, Nigeria",Yes,Yes,7355.58
+4MW21ME116,Zayan Aggarwal,Itanagar,Yes,No,2508.2
+4MW15CS855,Pankaj Mishra,"Milan, Italy",Yes,No,7102.28
+4MW11EC766,Bhavin Joshi,"Incheon, South Korea",Yes,No,5799.64
+4MW18EC895,Bhavesh Shetty,Kavaratti,Yes,No,354.64
+4MW12CS807,Eshwar Reddy,"Penang, Malaysia",No,No,2909.93
+4MW12CS545,Prerna Mehta,"Shanghai, China",No,Yes,5174.01
+4MW17CS164,Bhuvan Thakur,Vadodara,No,Yes,1053.34
+4MW23ME821,Bhavin Joshi,"Medellín, Colombia",Yes,Yes,16131.4
+4MW19EC547,Chhavi Nair,Gonda,Yes,No,1735.82
+4MW13CS312,Divya Menon,Junagadh,Yes,No,1061.05
+4MW16EC012,Harini Thakur,Bankura,No,Yes,1727.24
+4MW22CV845,Gaurav Verma,"Geneva, Switzerland",No,Yes,7347.1
+4MW20ME753,Laxman Bhatt,Coimbatore,Yes,Yes,312.09
+4MW13CV014,Harsh Bhatt,"Sydney, Australia",No,No,9580.09
+4MW19ME158,Harsh Bhatt,Etah,No,No,1667.09
+4MW20CV762,Prerna Mehta,"Hangzhou, China",No,Yes,5032.51
+4MW18CS280,Oindrila Mehta,Pulwama,Yes,Yes,2329.88
+4MW24ME819,Tarun Shetty,"Manila, Philippines",Yes,No,4983.42
+4MW20CS401,Sneha Khan,"Seattle, USA",No,No,13088.68
+4MW20EC990,Pooja Sharma,Seoni,Yes,Yes,1157.21
+4MW15ME688,Vidya Iyer,"Ottawa, Canada",No,Yes,12901.41
+4MW14CS821,Fardeen Kapoor,"London, UK",Yes,Yes,7856.87
+4MW10CS542,Nitin Reddy,Hubli,No,No,271.43
+4MW17EC231,Lavanya Bhatt,Sehore,Yes,No,1152.99
+4MW19CS910,Saurabh Naidu,"Lima, Peru",Yes,Yes,16980.51
+4MW18CS228,Vikas Das,Unnao,No,Yes,1627.01
+4MW19CV103,Lokesh Aggarwal,Tinsukia,No,Yes,2674.85
+4MW17ME804,Yash Das,Chittorgarh,Yes,No,1307.14
+4MW24EC275,Ishan Nair,Ratlam,Yes,No,1172
+4MW16ME911,Oorja Rao,Pondicherry,No,Yes,582.85
+4MW19CV668,Simran Gupta,"Eindhoven, Netherlands",Yes,Yes,7467.58
+4MW11EC069,Raghav Rao,"Helsinki, Finland",Yes,Yes,6624.31
+4MW19EC387,Tanmay Chauhan,Thrissur,No,Yes,302.75
+4MW13ME943,Manish Iyer,Gandhinagar,No,Yes,1164.64
+4MW18EC242,Gopal Deshmukh,Anantapur,No,Yes,342.91
+4MW24CS532,Aarohi Sinha,"London, UK",Yes,No,7856.87
+4MW10ME447,Vihan Sinha,"Tokyo, Japan",Yes,Yes,6924.93
+4MW20CV027,Damini Sinha,Faizabad,Yes,Yes,2966.36
+4MW19CV717,Divya Menon,"Vancouver, Canada",Yes,Yes,12895.59
+4MW11EC153,Arjun Prasad,"Osaka, Japan",Yes,Yes,6528.98
+4MW12CV858,Vihan Sinha,Vijayawada,Yes,Yes,736.92
+4MW20ME743,Oindrila Mehta,"Raleigh, USA",No,Yes,13941.46
+4MW14EC180,Vihan Gupta,"Krakow, Poland",No,Yes,6441.84
+4MW11EC670,Isha Goswami,"Brisbane, Australia",Yes,No,9533.1
+4MW13EC652,Gaurav Verma,Guntur,Yes,No,709.46
+4MW10EC656,Tanmay Naidu,Tirupati,Yes,Yes,501.24
+4MW15CS053,Urvashi Naidu,Allahabad (Prayagraj),No,Yes,1567.71
+4MW16ME380,Lokesh Gupta,Sitapur,No,No,1730.86
+4MW13CV338,Raghav Reddy,"Cape Town, South Africa",Yes,No,7906.46
+4MW19CS438,Samar Iyer,Ahmedabad,No,No,1144.31
+4MW16EC848,Aarushi Shetty,"Pittsburgh, USA",Yes,No,13555.95
+4MW11CS379,Mohan Goswami,Dantewada,No,Yes,959.99
+4MW19EC306,Yashwant Iyer,"Brno, Czech Republic",No,No,6640.82
+4MW20EC002,Sneha Khan,Leh,Yes,Yes,2369.81
+4MW18EC421,Zeeshan Shetty,Vadodara,Yes,Yes,1053.34
+4MW11CS671,Tanvi Verma,Thiruvananthapuram,No,Yes,540.36
+4MW23CV739,Charulata Menon,"Brno, Czech Republic",No,Yes,6640.82
+4MW22CS910,Ishan Nair,Port Blair,No,Yes,1949.91
+4MW24ME695,Prakash Rao,Lucknow,Yes,Yes,1666.92
+4MW14CV884,Varun Menon,Daltonganj,No,No,1567.97
+4MW18CS027,Tanvi Verma,Durgapur,Yes,Yes,1765.71
+4MW17ME038,Isha Goswami,Palwal,Yes,Yes,1696.34
+4MW13EC376,Damini Sinha,Haridwar,Yes,No,1915.35
+4MW18CV190,Advik Gupta,Kurukshetra,No,Yes,1899.65
+4MW15CS649,Pankaj Mishra,"Tokyo, Japan",Yes,Yes,6924.93
+4MW20EC100,Dhanush Menon,Sikar,No,Yes,1632.93
+4MW15EC614,Yogesh Prasad,"Brasília, Brazil",No,Yes,14373.09
+4MW20CV909,Harish Chauhan,"Phoenix, USA",Yes,No,14821.35
+4MW12CS323,Aarohi Sinha,"Atlanta, USA",Yes,Yes,14395.12
+4MW23EC372,Pankaj Mishra,Dehradun,No,No,1955.72
+4MW10ME074,Hina Aggarwal,"Bologna, Italy",Yes,Yes,6918.04
+4MW20ME548,Devendra Thakur,Korba,No,Yes,1344.98
+4MW20EC728,Samar Iyer,Eluru,Yes,No,793.85
+4MW20EC715,Uday Sharma,Dharamshala,No,No,2142.63
+4MW20EC592,Lata Gupta,Haridwar,No,No,1915.35
+4MW21ME551,Ramesh Iyer,"Dubai, UAE",Yes,No,2464.59
+4MW12EC629,Chhavi Nair,"Kaohsiung, Taiwan",No,Yes,4918.91
+4MW15ME035,Faizan Nair,Satna,Yes,No,1445.13
+4MW13CS489,Aditi Prasad,Navsari,Yes,No,912.85
+4MW24ME875,Urvashi Verma,"Rome, Italy",Yes,No,6781
+4MW11CV940,Jagdish Mehta,Chhindwara,No,Yes,1110.22
+4MW23CV913,Faisal Goswami,Jodhpur,No,Yes,1493.69
+4MW17EC429,Harish Chauhan,Guntur,No,No,709.46
+4MW12CS519,Sandeep Prasad,"Auckland, New Zealand",Yes,Yes,11738.38
+4MW23ME011,Fardeen Kapoor,"Manila, Philippines",Yes,No,4983.42
+4MW20EC413,Nandini Reddy,Ludhiana,Yes,No,1995.3
+4MW21EC981,Vihan Sinha,Etawah,No,Yes,1590.63
+4MW13CS711,Sneha Khan,Tehri,Yes,No,1970.36
+4MW15ME132,Eklavya Chauhan,"Asunción, Paraguay",No,No,14876.29
+4MW13ME148,Girish Mehta,Nainital,Yes,Yes,1885.39
+4MW18EC874,Jasmine Goswami,Deoria,Yes,No,1761.7
+4MW24CS106,Imran Aggarwal,Ludhiana,No,No,1995.3
+4MW12ME169,Manish Sharma,"Doha, Qatar",No,No,2803.8
+4MW13CV667,Jaya Jha,Ambala,Yes,No,1944.52
+4MW17EC206,Lalit Rao,"Brasília, Brazil",No,No,14373.09
+4MW20EC860,Uday Kapoor,Coimbatore,No,Yes,312.09
+4MW18CS063,Deepak Deshmukh,"Manila, Philippines",Yes,No,4983.42
+4MW15CV362,Jagdish Mehta,"Warsaw, Poland",No,Yes,6457.25
+4MW16CV193,Laxman Bhatt,"Waterloo, Canada",No,Yes,13281.33
+4MW12EC368,Falguni Bhatt,Thiruvananthapuram,No,No,540.36
+4MW21EC237,Jagdish Sinha,Jammu,No,No,2193.33
+4MW20EC401,Nikhil Verma,Beawar,No,No,1460.73
+4MW19EC968,Uma Rao,Hisar,Yes,No,1810.36
+4MW21EC325,Hina Reddy,Kota,No,No,1361.15
+4MW17CV368,Siddharth Gupta,Pune,No,No,629.69
+4MW18CS229,Pranav Deshmukh,"Cebu, Philippines",No,Yes,5338.59
+4MW23CS781,Aaditya Sharma,"Lima, Peru",Yes,No,16980.51
+4MW14CV161,Hardik Reddy,Lohardaga,Yes,Yes,1564.22
+4MW12CS316,Nitin Reddy,"Toulouse, France",No,No,7697.73
+4MW12CS146,Trisha Iyer,Tiruchirappalli,No,No,478.16
+4MW22EC235,Meera Reddy,Beawar,Yes,Yes,1460.73
+4MW20ME707,Varun Menon,"Vilnius, Lithuania",No,Yes,6312.78
+4MW20CV389,Nirav Das,Dumka,No,Yes,1811.65
+4MW20EC322,Ojas Yadav,"Stockholm, Sweden",Yes,No,6928.45
+4MW15EC969,Heena Jha,"San Diego, USA",Yes,No,14796.67
+4MW14ME870,Lalit Mehta,Patna,Yes,Yes,1770.09
+4MW17CV066,Nandini Reddy,"Beijing, China",No,Yes,5054.52
+4MW21EC988,Bhavesh Shetty,"Brisbane, Australia",Yes,No,9533.1
+4MW12EC548,Kavita Bhatt,"Santiago, Chile",No,No,15855.3
+4MW22ME244,Eshita Kapoor,Rewari,No,Yes,1701.76
+4MW16ME813,Hina Reddy,"Luxembourg City, Luxembourg",No,Yes,7394.2
+4MW23EC545,Mohan Khan,Amritsar,No,Yes,2073.25
+4MW20CS137,Aditi Prasad,Dhamtari,No,No,1115.76
+4MW12ME287,Dilip Prasad,"Melbourne, Australia",No,No,9201.73
+4MW22CV369,Varun Menon,Mau,Yes,No,1711.52
+4MW11EC953,Eshwar Reddy,Yamunanagar,No,No,1921.94
+4MW11CV625,Zubin Kapoor,Rohtak,Yes,No,1779.08
+4MW16ME336,Nikhil Jha,Mussoorie,Yes,No,1970.64
+4MW17ME726,Ekta Chauhan,"Bali, Indonesia",Yes,Yes,5036.11
+4MW21CV093,Madhav Mishra,Surat,Yes,Yes,942.96
+4MW22CV868,Faisal Bhatt,Dehradun,No,Yes,1955.72
+4MW13EC961,Rajesh Das,"Madrid, Spain",Yes,Yes,8127.57
+4MW15CS095,Keshav Sharma,"Manchester, UK",Yes,Yes,8010.68
+4MW22CS153,Faisal Bhatt,Jammu,Yes,No,2193.33
+4MW24EC135,Leela Deshmukh,Kolkata,Yes,Yes,1785.47
+4MW21EC848,Harini Thakur,Jammu,No,No,2193.33
+4MW16CS588,Harsha Thakur,Asansol,No,Yes,1748.26
+4MW16EC613,Deepika Goswami,"Guangzhou, China",Yes,No,4206.65
+4MW11ME047,Pooja Sharma,"Munich, Germany",Yes,Yes,6973.19
+4MW24CV620,Advik Gupta,Beawar,No,No,1460.73
+4MW18ME523,Uday Sharma,Bhubaneswar,Yes,Yes,1425.5
+4MW24CV993,Uma Das,Visakhapatnam,Yes,Yes,1048.75
+4MW11CV496,Deepak Deshmukh,"Algiers, Algeria",Yes,No,7547.94
+4MW18EC385,Bharat Jha,"Medellín, Colombia",Yes,Yes,16131.4
+4MW11CV166,Umesh Nair,"Bologna, Italy",Yes,Yes,6918.04
+4MW15CV653,Madhur Deshmukh,"Calgary, Canada",No,No,12866.2
+4MW17CS761,Nikhil Verma,Durgapur,No,Yes,1765.71
+4MW19CS045,Prerna Mehta,"Budapest, Hungary",Yes,Yes,6414.19
+4MW11EC844,Harish Sharma,"Alexandria, Egypt",Yes,Yes,5019.65
+4MW15CV743,Raghav Rao,"Osaka, Japan",Yes,No,6528.98
+4MW13CV941,Damini Sinha,"Vienna, Austria",Yes,Yes,6627.98
+4MW14ME136,Pooja Sharma,Saharanpur,No,Yes,1909.93
+4MW22CS786,Meera Khan,Rudrapur,Yes,Yes,1838.92
+4MW12CV911,Chandan Das,"Chengdu, China",Yes,No,3584.46
+4MW24ME360,Ritika Naidu,"Calgary, Canada",Yes,No,12866.2
+4MW24ME217,Eklavya Chauhan,Bharatpur,Yes,No,1582.68
+4MW15ME378,Karan Thakur,Ujjain,Yes,Yes,1141.32
+4MW24ME526,Kiran Reddy,"Denver, USA",No,Yes,14175.12
+4MW21ME762,Girish Menon,"Amsterdam, Netherlands",No,Yes,7521.79
+4MW22EC778,Lokesh Gupta,Bangalore,Yes,No,300.3
+4MW22ME994,Zubin Kapoor,Navsari,No,Yes,912.85
+4MW12ME551,Uday Yadav,Noida,Yes,Yes,1752.31
+4MW17EC615,Bhaskar Kapoor,"Santiago, Chile",Yes,No,15855.3
+4MW13EC584,Mitali Mehta,"Madrid, Spain",No,Yes,8127.57
+4MW10CS609,Aarav Patel,Agartala,No,Yes,2111.76
+4MW22CS202,Saurabh Naidu,"Riga, Latvia",No,Yes,6494.43
+4MW15ME205,Ishan Nair,Bikaner,Yes,No,1679.63
+4MW24CV414,Ekta Chauhan,"São Paulo, Brazil",Yes,No,13773.18
+4MW21CV332,Lakshay Yadav,Nellore,Yes,No,580.49
+4MW22ME113,Kavita Bhatt,Singapore,No,No,3439.48
+4MW21EC038,Yash Thakur,"Asunción, Paraguay",Yes,No,14876.29
+4MW10EC230,Kamal Jha,Lohardaga,No,Yes,1564.22
+4MW19EC953,Tanmay Chauhan,"Algiers, Algeria",Yes,No,7547.94
+4MW18ME252,Gopal Jha,"Geneva, Switzerland",No,Yes,7347.1
+4MW21EC480,Kamal Jha,"São Paulo, Brazil",No,No,13773.18
+4MW17EC056,Urvashi Verma,Sitapur,Yes,No,1730.86
+4MW10ME992,Darshan Desai,"Auckland, New Zealand",Yes,Yes,11738.38
+4MW22CV433,Darshan Desai,"Bucharest, Romania",No,No,5785.14
+4MW10CV655,Ramesh Iyer,Nashik,Yes,No,793.59
+4MW15EC402,Omkar Prasad,"Geneva, Switzerland",Yes,No,7347.1
+4MW18CV989,Hardik Reddy,Midnapore,No,No,1688.8
+4MW13CS109,Tushar Khan,Kavaratti,No,No,354.64
+4MW12CV096,Ishaan Rao,"Bristol, UK",No,No,8027
+4MW16CV063,Vaishali Yadav,Almora,No,Yes,1918.02
+4MW16EC145,Yashwant Iyer,"Berlin, Germany",Yes,Yes,6958.28
+4MW13CS676,Yuvraj Chauhan,"Kampala, Uganda",No,No,4867.14
+4MW19EC645,Nikhil Jha,Kota,Yes,Yes,1361.15
+4MW22CV548,Pranav Shetty,Bhilwara,Yes,No,1393.12
+4MW12EC895,Lokesh Gupta,"New York City, USA",Yes,Yes,13261.27
+4MW24CV733,Deepika Goswami,"Belo Horizonte, Brazil",Yes,No,13483.85
+4MW18CV705,Farzana Sinha,"London, UK",No,No,7856.87
+4MW17EC408,Farzana Sinha,"Budapest, Hungary",Yes,Yes,6414.19
+4MW10EC753,Zohra Das,"Porto Alegre, Brazil",No,No,14186.38
+4MW17EC476,Ipsita Aggarwal,"Copenhagen, Denmark",Yes,Yes,7105.24
+4MW22EC155,Yasmin Mishra,"Madrid, Spain",No,Yes,8127.57
+4MW18CV447,Neha Sharma,Satna,No,No,1445.13
+4MW20EC597,Uday Sharma,"Tunis, Tunisia",Yes,Yes,6912.56
+4MW10EC078,Raghav Reddy,"Belo Horizonte, Brazil",Yes,No,13483.85
+4MW21CV540,Nandini Reddy,Banda,No,No,1510.53
+4MW20ME557,Jatin Iyer,Hyderabad,Yes,Yes,627.06
+4MW24EC078,Aaditya Sharma,"Lyon, France",Yes,No,7443.65
+4MW14EC196,Meera Reddy,Bangalore,No,Yes,300.3
+4MW15CS899,Om Gupta,Midnapore,Yes,No,1688.8
+4MW17ME055,Meera Khan,Chandigarh,Yes,No,1983.09
+4MW23ME243,Oma Nair,Moradabad,No,Yes,1814.51
+4MW24EC520,Barkha Shetty,Firozabad,Yes,Yes,1624.97
+4MW10CV819,Chhavi Nair,Tinsukia,Yes,Yes,2674.85
+4MW22CV891,Yash Das,Gwalior,No,No,1511.19
+4MW13CS430,Prakash Rao,Tezpur,Yes,No,2407.76
+4MW24CS219,Oorja Rao,"Budapest, Hungary",Yes,No,6414.19
+4MW10CV354,Pankaj Mishra,Sehore,No,No,1152.99
+4MW20ME638,Jagdish Sinha,"Krakow, Poland",No,Yes,6441.84
+4MW22EC958,Aakash Goswami,Jaunpur,Yes,No,1634.96
+4MW19EC389,Bhavin Joshi,"Brasília, Brazil",Yes,Yes,14373.09
+4MW23CV545,Esha Jha,"Pretoria, South Africa",Yes,No,6622.74
+4MW15CS226,Tarun Shetty,"Zurich, Switzerland",No,No,7182.56
+4MW17EC656,Abhinav Singh,Kurukshetra,Yes,Yes,1899.65
+4MW23EC285,Aditi Prasad,"Bologna, Italy",No,No,6918.04
+4MW23CV165,Bhavna Thakur,Allahabad (Prayagraj),Yes,No,1567.71
+4MW11EC793,Lata Gupta,"Incheon, South Korea",No,No,5799.64
+4MW21CV706,Dhanush Menon,Banda,Yes,No,1510.53
+4MW10EC171,Trisha Iyer,"Montevideo, Uruguay",No,Yes,14546.1
+4MW14EC675,Pranav Deshmukh,Patna,Yes,No,1770.09
+4MW20EC021,Uma Das,Sivasagar,No,Yes,2584.53
+4MW24ME209,Dhanush Menon,Ludhiana,No,No,1995.3
+4MW24CV540,Gopal Deshmukh,Ahmedabad,Yes,No,1144.31
+4MW14EC958,Pranav Deshmukh,Mumbai,No,Yes,712.01
+4MW14CS132,Zoravar Naidu,"Tallinn, Estonia",No,No,6593.54
+4MW24ME379,Harsh Bhatt,Unnao,No,No,1627.01
+4MW17CS482,Abhishek Yadav,"Belo Horizonte, Brazil",No,Yes,13483.85
+4MW16ME615,Harsh Bhatt,"Rome, Italy",Yes,No,6781
+4MW18EC216,Zoravar Naidu,"Cebu, Philippines",No,No,5338.59
+4MW17CS300,Madhav Mishra,"Rotterdam, Netherlands",Yes,Yes,7543.35
+4MW21ME136,Bhuvan Thakur,Leh,No,Yes,2369.81
+4MW19CV209,Ahaan Kumar,Nainital,No,No,1885.39
+4MW18EC774,Devansh Goswami,Gandhinagar,No,Yes,1164.64
+4MW17ME971,Yash Das,"Pretoria, South Africa",Yes,No,6622.74
+4MW21CV676,Jaya Jha,Mehsana,Yes,No,1211.58
+4MW24EC039,Farah Kapoor,"Tokyo, Japan",No,No,6924.93
+4MW17ME722,Leela Nair,"Minneapolis, USA",Yes,No,13482.98
+4MW24EC575,Vidya Iyer,Leh,Yes,No,2369.81
+4MW11CS456,Vidya Prasad,Hyderabad,Yes,No,627.06
+4MW15EC927,Sneha Khan,Kullu,Yes,Yes,2121.51
